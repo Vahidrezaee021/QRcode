@@ -46,6 +46,7 @@ body {
 .container form button {
     background: #385E72;
     color: #fff;
+    cursor: pointer;
 
 }
 
@@ -54,4 +55,8 @@ body {
     text-align: center;
     padding: 10px;
     border-radius: 5px;
+}
+
+.hidden{
+    display: none;
 }
